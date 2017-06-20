@@ -1,5 +1,5 @@
 
-public class P2 {
+public class P1 {
 
 	static double fivesqrt = Math.sqrt(5);
 
@@ -16,8 +16,8 @@ public class P2 {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int n;//数列的下标号
+		
+		int n;
 		double f;
 		
 		for(n=0;n<101;n++)
